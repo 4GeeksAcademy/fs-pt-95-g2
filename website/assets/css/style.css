@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+    background:white;
 }
 
 .nav-link {
@@ -14,4 +14,17 @@ body{
     border: 2px solid #ff0000; /* Cambiar color del borde */
   }
   
-  
+
+.img-bg {
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+}
+
+h1, h2 {
+    background-color: white;
+}
+
+h1 {
+    font-size: 100px;
+}
