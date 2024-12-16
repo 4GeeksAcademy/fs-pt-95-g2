@@ -1,3 +1,17 @@
 body{
     background: #BDBDBD;
 }
+
+.nav-link {
+    color:white;
+}
+
+.navbar-brand {
+    color: grey;
+}
+
+.custom-toggler {
+    border: 2px solid #ff0000; /* Cambiar color del borde */
+  }
+  
+  
