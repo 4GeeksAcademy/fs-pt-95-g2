@@ -21,10 +21,13 @@ body{
     object-fit: cover;
 }
 
-h1, h2 {
+/* h1, h2 {
     background-color: white;
-}
+} */
 
-h1 {
-    font-size: 100px;
+.headtext1 {
+    font-size: 3.5rem;
+}
+.headtext2 {
+    font-size: 1.5rem;
 }
